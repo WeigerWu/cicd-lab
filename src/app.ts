@@ -22,5 +22,4 @@ export function buildApp(options: FastifyServerOptions = {}) {
   return app;
 }
 
-// CI 示範用：故意型別錯誤，驗證後請刪除此行
-const _ciDemoTypeError: number = 'broken';
+
